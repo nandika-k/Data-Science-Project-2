@@ -1,0 +1,1 @@
+Using the Banking Data - Marketing Targets dataset from Kaggle, we are attempttting to predict whether a marketing campaign was successful. Success is defined as whether a customer subscribed to a term deposit
